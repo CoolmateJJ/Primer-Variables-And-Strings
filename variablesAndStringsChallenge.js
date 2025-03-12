@@ -3,20 +3,20 @@
 // Use console.log() to test your work before running `npm run test`.
 
 // 1️⃣ Create a variable labelled `myName` and assign it your name.
-
+var myName = "James";
 
 // 2️⃣ Create a variable labelled `greeting` that says "Hello, my name is ___" using your `myName` variable.
-
+var greetings = "Hello, My name is"+myName;
 
 // 3️⃣ Find the length of `greeting` and store it in a variable labelled `greetingLength`.
 
 
 // 4️⃣ Create a variable `favoriteFood` and assign it a string value.
-
+var favoriteFood = 'pie';
 
 // 5️⃣ Use string concatenation to create a sentence:  
 // "My favorite food is ___ and I love eating it!"
-
+var favFood = "My favorite food is " + favoriteFood + ' and I love eating it!'
 
 // 6️⃣ Create a variable `uppercaseGreeting` that stores `greeting` in all uppercase.
 
